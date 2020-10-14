@@ -3,6 +3,8 @@ Global Cyber Ladies
 
 Website for Leading Cyber Ladies - a global professional network of women in cybersecurity.
 
+***
+
 Content for html files:
 
 about.html - description and history of Leading Cyber Ladies
@@ -19,7 +21,7 @@ index.html - is a home page with generic info, welcome page
 
 partners.html - list of sponsors and community partners
 
-
+***
 
 Contact infromation for Leading Cyber Ladies:
 
