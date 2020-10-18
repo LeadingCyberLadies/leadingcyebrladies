@@ -3,6 +3,12 @@ Global Cyber Ladies
 
 Website for Leading Cyber Ladies - a global professional network of women in cybersecurity.
 
+Contact infromation for Leading Cyber Ladies:
+
+Email: info@leadingcyberladies.com
+
+Twitter: https://twitter.com/cyber_ladies 
+
 ***
 
 Content for html files:
@@ -23,12 +29,6 @@ partners.html - list of sponsors and community partners
 
 ***
 
-Contact infromation for Leading Cyber Ladies:
 
-Email: info@leadingcyberladies.com
-
-Email 2: leadingcyberladies@gmail.com
-
-Twitter: https://twitter.com/cyber_ladies 
 
 
