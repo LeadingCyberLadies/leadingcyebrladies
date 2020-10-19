@@ -21,11 +21,9 @@ contact.html - how to contact Leading Cyber Ladies
 
 elements.html - template of elements (not used as a page but is kept for reference)
 
-generic.html - redundant (to be deleted)
-
 index.html - is a home page with generic info, welcome page
 
-partners.html - list of sponsors and community partners
+partners.html - list of business partners and community partners
 
 ***
 
