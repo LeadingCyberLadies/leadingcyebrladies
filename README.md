@@ -9,4 +9,8 @@ Email: info@leadingcyberladies.com
 
 Twitter: https://twitter.com/cyber_ladies
 
-Creator: @Reutooo_
+Creators:
+@Reutooo_
+@Daba Baliti
+@Helen
+@EdenKatz
